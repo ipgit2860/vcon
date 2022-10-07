@@ -1,8 +1,10 @@
 // THIS FILE IS GENERATED AUTOMATICALLY. DO NOT MODIFY.
 
+import Ipgit2860VconVcon from './ipgit2860.vcon.vcon'
 
 
 export default { 
+  Ipgit2860VconVcon: load(Ipgit2860VconVcon, 'ipgit2860.vcon.vcon'),
   
 }
 
